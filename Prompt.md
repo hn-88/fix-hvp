@@ -29,3 +29,14 @@ Can I automate the copy-pasting of the json content from the old database backup
 https://our-url.com/mod/hvp/view.php?id=55555
 ?
 ```
+After this ran successfully, a follow-up prompt,
+```
+Running the python script, I was able to get the main content of the hvp page to display. But there are images in the content which are not being displayed. Eg.
+```
+(I pasted the html img tag here) 
+```
+The image returns file not found.
+```
+Following the 2nd prompt, "Step 7" was added to the python script.
+More information about this error
+```
