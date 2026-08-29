@@ -9,3 +9,6 @@ My tunnel was created like this,
 ```
 ssh theuser@serverhostname  -L 3316:localhost:3306
 ```
+The [Prompt.md](https://github.com/hn-88/fix-hvp/blob/main/Prompt.md) file contains the prompts used to create these scripts.
+
+The blog post at https://hnsws.blogspot.com/2026/08/recovering-h5p-activites-after-modhvp.html has details on the full workflow which led up to these scripts.
